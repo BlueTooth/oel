@@ -20,5 +20,5 @@ urlpatterns = [
     path('', cart_view, name='cart'),
     path('pruduct/', product_view),
     path('admin/', admin.site.urls),
-    # huhu
+    # huhu1
 ]
