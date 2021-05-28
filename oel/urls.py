@@ -21,5 +21,5 @@ urlpatterns = [
     path('pruduct/', product_view),
     path('admin/', admin.site.urls),
     # huhul
-    # huhu1
+    # huhu123
 ]
